@@ -1,8 +1,8 @@
 {
-    "name": "FlavioSanches/ecommerce",
+    "name": "flaviosanches/ecommerce",
     "authors": [
         {
-            "name": "Flavio Alves Sanches",
+            "name": "flavio alves sanches",
             "email": "flaviosanches.21@hotmail.com"
         }
     ],
@@ -16,4 +16,4 @@
             "": "vendor\\hcodebr\\php-classes\\src"
         }
     }
-}
+} 
